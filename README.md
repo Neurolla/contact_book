@@ -1,6 +1,3 @@
-Of course, Vida 🌿
-Here is your **Contact Book README rewritten in your personal GitHub style** — clean, friendly, structured, with emojis and a polished tone (just like your Happy Numbers and Monty Hall README files).
-
 # 📇 Contact Book
 
 A simple and clean **Python console application** that allows you to store, view, edit, and delete your contacts.
